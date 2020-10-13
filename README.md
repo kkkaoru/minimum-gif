@@ -4,6 +4,7 @@
 
 - [VSCode](https://code.visualstudio.com/)
 - [Hex Editor Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
+- [Base64 command](https://linux.die.net/man/1/base64)
 
 ## Directories
 
