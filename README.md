@@ -11,8 +11,8 @@
 $ tree -d .
 .
 ├── dist # Output files
-├── sh # For create files
-└── src # Binary file
+├── sh   # For create files
+└── src  # Binary file
 ```
 
 ## Shells
