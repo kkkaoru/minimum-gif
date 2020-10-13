@@ -1,0 +1,8 @@
+{
+    "workbench.editorAssociations": [
+        {
+            "viewType": "hexEditor.hexedit",
+            "filenamePattern": "*.hex"
+        }
+    ]
+}
